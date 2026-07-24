@@ -1,0 +1,15 @@
+DevOps Notes Summary
+
+DevOps is a combination of Development (Dev) and Operations (Ops). It is a culture, set of practices, and collection of tools that enable software development and IT operations teams to work together efficiently. The main objective of DevOps is to deliver high-quality software faster, improve collaboration, automate repetitive tasks, and ensure reliable deployments.
+
+The DevOps lifecycle consists of several stages: Plan, Code, Build, Test, Release, Deploy, Operate, and Monitor. During the planning phase, requirements are gathered and tasks are organized. Developers write code and manage it using Git with repositories hosted on platforms such as GitHub or Bitbucket. Build tools like Maven or Gradle compile the source code into executable applications. Automated testing verifies the quality of the application before it is released. CI/CD tools such as Jenkins or GitHub Actions automate the build, test, and deployment process, reducing manual effort and speeding up software delivery.
+
+Containerization is achieved using Docker, which packages applications and their dependencies into lightweight containers. Kubernetes is used to deploy, manage, and scale these containers automatically across multiple servers. Infrastructure as Code (IaC) tools like Terraform provision cloud resources such as virtual machines, networks, and storage, while Ansible automates server configuration and application deployment.
+
+Cloud platforms, especially Amazon Web Services (AWS), play an important role in DevOps. Common AWS services include EC2 for virtual servers, S3 for object storage, EBS for block storage, IAM for identity and access management, VPC for network isolation, CloudWatch for monitoring, and CloudTrail for auditing API activity. These services help organizations build scalable, secure, and highly available applications.
+
+Linux is the most commonly used operating system in DevOps because many servers run on Linux. A DevOps engineer should be familiar with essential Linux commands such as ls, cd, pwd, mkdir, touch, cat, cp, mv, rm, grep, find, chmod, and ps. Knowledge of networking concepts such as IP addressing, subnetting, DNS, HTTP, HTTPS, SSH, and common ports is also essential.
+
+Monitoring is a continuous part of the DevOps process. Tools like Prometheus, Grafana, the ELK Stack, and AWS CloudWatch are used to monitor CPU usage, memory, disk space, network performance, application health, and logs. Continuous monitoring helps detect issues early and maintain system reliability.
+
+Overall, DevOps helps organizations deliver software more quickly, improve collaboration between teams, reduce deployment errors, increase automation, and maintain reliable, scalable, and secure applications. It has become an essential practice in modern software development and cloud computing, making it one of the most in-demand skill sets in the IT industry.
