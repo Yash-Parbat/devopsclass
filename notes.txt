@@ -12,4 +12,6 @@ Linux is the most commonly used operating system in DevOps because many servers 
 
 Monitoring is a continuous part of the DevOps process. Tools like Prometheus, Grafana, the ELK Stack, and AWS CloudWatch are used to monitor CPU usage, memory, disk space, network performance, application health, and logs. Continuous monitoring helps detect issues early and maintain system reliability.
 
-Overall, DevOps helps organizations deliver software more quickly, improve collaboration between teams, reduce deployment errors, increase automation, and maintain reliable, scalable, and secure applications. It has become an essential practice in modern software development and cloud computing, making it one of the most in-demand skill sets in the IT industry.
+Overall, DevOps helps organizations deliver software more quickly, improve collaboration between teams, reduce deployment errors, increase automation, and maintain reliable, scalable, and secure 
+applications. It has become an essential practice in modern software development and cloud computing, making it one of the most in-demand skill sets in the IT industry.
+no change in this file
